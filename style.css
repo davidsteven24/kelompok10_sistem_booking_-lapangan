@@ -1,0 +1,50 @@
+body {
+	margin: 0;      
+	font-family: Arial, sans-serif;
+	background: rgb(237, 245, 255);
+    padding-top: 60px;
+}
+.navbar{
+	background: rgb(50, 92, 206);
+	margin: 0;
+	padding: 30px 40px;
+}
+ 
+img{
+    width: 40%;
+}
+ 
+.container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.menu{
+	margin: 0;
+	display: flex;
+	list-style: none;
+	padding: 0;			
+}
+ 
+.menu li{
+	padding-left: 0;
+	margin-right: 30px;
+}
+ 
+.menu li a{
+	padding:10px;
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	display: inline-block;
+}
+.hom{
+    background-image: url(base.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+}
