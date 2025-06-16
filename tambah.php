@@ -12,7 +12,7 @@
         <td><input type="text" name="nama"></td>
     </tr>
     <tr>
-        <td>email</td>
+        <td>Email</td>
         <td>:</td>
         <td><input type="text" name="email"></td>
     </tr>
