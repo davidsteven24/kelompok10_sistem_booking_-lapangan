@@ -7,7 +7,7 @@
 
 <table border="1">
     <tr>
-        <th>No. </th>
+        <th>NO. </th>
         <th>Nama</th>
         <th>email</th>
         <th>aksi</th>

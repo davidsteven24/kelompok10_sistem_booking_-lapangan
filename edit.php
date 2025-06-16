@@ -16,7 +16,7 @@
         <td><input type="text" name="nama" value="<?php echo $data['nama']?>"></td>
     </tr>
     <tr>
-        <td>email</td>
+        <td>Email</td>
         <td>:</td>
         <td><input type="text" name="email" value="<?php echo $data['email']?>"></td>
     </tr>
